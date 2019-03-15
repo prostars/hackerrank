@@ -1,8 +1,10 @@
-import java.util.HashMap;
+package InterviewPreparationKit;
 
 // Practice > Interview Preparation Kit > Warm-up Challenges
 // Sock Merchant
 // https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+
+import java.util.HashMap;
 
 public class SockMerchant {
 
