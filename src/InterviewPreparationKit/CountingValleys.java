@@ -2,7 +2,7 @@ package InterviewPreparationKit;
 
 // Practice > Interview Preparation Kit > Warm-up Challenges
 // Counting Valleys
-// https://www.hackerrank.com/challenges/counting-valleys/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
+// https://www.hackerrank.com/challenges/counting-valleys/problem
 
 public class CountingValleys {
 
